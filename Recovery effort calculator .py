@@ -15,10 +15,7 @@ How it works
 3. The result is displayed below the button.
 
 Run
----
-$ python drawdown_recovery_calculator.py
-
-Dependencies: Only the Python3 standard library (Tkinter).
+start code from here
 """
 
 
